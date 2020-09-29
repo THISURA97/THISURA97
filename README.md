@@ -24,6 +24,23 @@ Hi, I'm [Thisura Hettiarachchi](https://lk.linkedin.com/in/thisurahettiarachchi)
 - :mailbox_with_mail: You can reach me: [tdinith481@gmail.com]()
 - :octocat: If you interested here is my [resume](https://drive.google.com/file/d/1zFTO09e10yvrxgJ_V0P3DRehyi1SeGy3/view?usp=sharing)
 
+
+### Languages and Tools:
+
+
+<code><img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+<img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
+<img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
+<img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
+<img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
+<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
+<img alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+<img alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+</code>
+
+
+
 <br />
 <p align="left">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=thisura97&show_icons=true&hide_title=false&include_all_commits=true&count_private=true&hide=[%22contribs%22]" alt="Github Stats" />
