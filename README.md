@@ -19,12 +19,13 @@
 
 Hi, I'm [Thisura Hettiarachchi](https://lk.linkedin.com/in/thisurahettiarachchi),a Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from <img src="https://www.flaticon.com/svg/static/icons/svg/299/299821.svg" width="18">Sri Lanka.I enjoy learning about the technologies that i found interesting. You can see what I've been up to thease days at [here](theoweb97.herokuapp.com).
 
--  :mortar_board: &nbsp;I’m a undergraguate at [SLIIT](https://sliit.lk)<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+-  :mortar_board: &nbsp;I’m a undergraguate at [SLIIT](https://sliit.lk)<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><img src="https://media1.tenor.com/images/3956939cec295c95c3b4f3948d0bff23/tenor.gif?itemid=15740796" align="right" width="400">
 - ⚡️ &nbsp;I'm currently excited about [Machine Learning Algorithms]() like K-Means
 - :mailbox_with_mail: You can reach me: [tdinith481@gmail.com]()
 - :octocat: If you interested here is my [resume](https://drive.google.com/file/d/1zFTO09e10yvrxgJ_V0P3DRehyi1SeGy3/view?usp=sharing)
 
 
+ 
 ### Languages and Tools:
 
 
