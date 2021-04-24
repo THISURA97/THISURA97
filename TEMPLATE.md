@@ -38,6 +38,9 @@
 
 <br />
 
+## 💼 Activity
+
+<!--GITHUB_ACTIVITY:{"rows": 5}-->
 
 ## Github Metrics
 
