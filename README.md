@@ -29,7 +29,7 @@
 
 
 <br />
-<p align="center">
+<p>
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=thisura97&s&theme=dark&show_icons=true&hide_title=false&include_all_commits=true&count_private=true&hide=[%22contribs%22]" alt="Github Stats" />
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisura97&theme=dark&show_icons=true&langs_count=9b&hide=css&layout=compact" alt="Top Languages" />
 </p>
