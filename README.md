@@ -23,8 +23,8 @@
 <h3  align="center">🎖 Contribution Streak</h3>
 
 <p class="rich-diff-level-zero" align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=thisura97&theme=dark" rel="nofollow" class="rech-diff-level-one">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisura97&theme=dark" alt="GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=thisura97&theme=dark" style="max-width:100%;">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=thisura97&theme=radical" rel="nofollow" class="rech-diff-level-one">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisura97&theme=radical" alt="GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=thisura97&theme=dracula" style="max-width:100%;">
    </a>
  </p>
 
@@ -32,8 +32,8 @@
 
 <br />
 <p>
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=thisura97&s&theme=dark&show_icons=true&hide_title=false&include_all_commits=true&count_private=true&hide=[%22contribs%22]" alt="Github Stats" />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisura97&theme=dark&show_icons=true&langs_count=9b&hide=css&layout=compact" alt="Top Languages" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=thisura97&s&theme=radical&show_icons=true&hide_title=false&include_all_commits=true&count_private=true&hide=[%22contribs%22]" alt="Github Stats" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisura97&theme=radical&show_icons=true&langs_count=9b&hide=css&layout=compact" alt="Top Languages" />
 </p>
 
 <br />
