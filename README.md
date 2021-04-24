@@ -1,51 +1,37 @@
-### Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/XTW52Kt">
-<p align="left">
-<a href="https://dev.to/thisura97">
-  <img src="https://user-images.githubusercontent.com/16360374/87501757-be259100-c614-11ea-854d-77405a469ca2.png" alt="Dev.to" height="45" />
-</a>
-<a href="https://dribbble.com/thisuraX">
-    <img src="https://user-images.githubusercontent.com/16360374/87503301-b536be80-c618-11ea-8c99-45cce807ce83.png" alt="Dribbble" height="45" />
-  </a>
-   
-  <a href="https://twitter.com/thisura19">
-    <img src="https://user-images.githubusercontent.com/16360374/87503304-b5cf5500-c618-11ea-88ad-eebb40f570b2.png" alt="Twitter" height="45" />
-  </a>
-   <a href="https://lk.linkedin.com/in/thisurahettiarachchi">
-    <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" alt="LinkedIn" height="45" />
- 
-  </a>
+<h1 align="center">Hi 👋, I'm Thisura Dinith</h1>
+<h3 align="center">A developer from Kalutara, Sri Lanka.</h3>
+
+
+## 🧬 About Me
+
+- 💻 I am a full stack web developer and a undergraduate of Sri Lanka Institute of Information Technology(SLIIT) .
+- 🔭 I am currently completing my DevOps Internship at SLIIT.
+- 💪 All of my projects are available at [https://github.com/thisura97](https://github.com/thisura97)
+- 📫 How to reach me: **<tdinith481@gmail.com>**(personal)
+- :octocat: If you are interest in my work here is my [resume](https://drive.google.com/file/d/1zFTO09e10yvrxgJ_V0P3DRehyi1SeGy3/view?usp=sharing)
+
+
+ ## 💪 Stats
+
+<p align="center">
+  Last refresh: 
+  <b>2021-04-24T04:03:13Z</b>
 </p>
 
-Hi, I'm [Thisura Hettiarachchi](https://lk.linkedin.com/in/thisurahettiarachchi),a Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from <img src="https://www.flaticon.com/svg/static/icons/svg/299/299821.svg" width="18">Sri Lanka.I enjoy learning about the technologies that i found interesting. You can see what I've been up to thease days at [here](theoweb97.herokuapp.com).
+<h3  align="center">🎖 Contribution Streak</h3>
 
--  :mortar_board: &nbsp;I’m a undergraduate at [SLIIT](https://sliit.lk)<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><img src="https://nubalia.com/wp-content/uploads/2020/04/Teletrabaja-con-Home-Office-de-G-Suite.gif" align="right" width="400">
-- ⚡️ &nbsp;I'm currently excited about [Machine Learning Algorithms]() like K-Means
-- :mailbox_with_mail: You can reach me: [tdinith481@gmail.com]()
-- :octocat: If you interested here is my [resume](https://drive.google.com/file/d/1zFTO09e10yvrxgJ_V0P3DRehyi1SeGy3/view?usp=sharing)
-
-
- 
-### Languages and Tools:
-
-
-<code><img alt="visual studio code" width="40px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-<img alt="intellij idea" width="40px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
-<img alt="html5" width="40px" src="https://img.icons8.com/color/240/000000/html-5.png">
-<img alt="css3" width="40px" src="https://img.icons8.com/color/240/000000/css3.png">
-<img alt="java" width="40px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
-<img alt="javascript" width="40px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-<img alt="python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-<img alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-</code>
+<p class="rich-diff-level-zero" align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=thisura97&theme=dark" rel="nofollow" class="rech-diff-level-one">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisura97&theme=dark" alt="GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=thisura97&theme=dark" style="max-width:100%;">
+   </a>
+ </p>
 
 
 
 <br />
-<p align="left">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=thisura97&s&theme=cobalt&show_icons=true&hide_title=false&include_all_commits=true&count_private=true&hide=[%22contribs%22]" alt="Github Stats" />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisura97&theme=cobalt&show_icons=true&langs_count=9b&hide=css&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=thisura97&s&theme=dark&show_icons=true&hide_title=false&include_all_commits=true&count_private=true&hide=[%22contribs%22]" alt="Github Stats" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisura97&theme=dark&show_icons=true&langs_count=9b&hide=css&layout=compact" alt="Top Languages" />
 </p>
 
 <br />
