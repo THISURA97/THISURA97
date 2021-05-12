@@ -40,8 +40,8 @@
 
 ## 💼 Activity
 
-* ⬆️ Pushed 1 commit to THISURA97/THISURA97
-* ⬆️ Pushed 1 commit to THISURA97/THISURA97
+* ⬆️ Pushed 1 commit to SLIIT-HCI/SMTEC
+* ⬆️ Pushed 1 commit to SLIIT-HCI/SMTEC
 * ⬆️ Pushed 1 commit to THISURA97/THISURA97
 * ⬆️ Pushed 1 commit to THISURA97/THISURA97
 * ⬆️ Pushed 1 commit to THISURA97/THISURA97
