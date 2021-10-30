@@ -41,10 +41,10 @@
 ## 💼 Activity
 
 * ⬆️ Pushed 1 commit to THISURA97/THISURA97
+* ⬆️ Pushed 1 commit to THISURA97/THISURA97
 * ⬆️ Pushed 2 commits to THISURA97/THISURA97
 * 🎉 Merged PR #1 in THISURA97/THISURA97
 * 💪 Opened PR #1 in THISURA97/THISURA97
-* ⬆️ Pushed 1 commit to THISURA97/THISURA97
 
 ## Github Metrics
 
