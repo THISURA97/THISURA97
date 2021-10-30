@@ -40,11 +40,11 @@
 
 ## 💼 Activity
 
-* ⬆️ Pushed 1 commit to THISURA97/nvim
-* ⬆️ Pushed 1 commit to THISURA97/nvim
-* ⬆️ Pushed 1 commit to THISURA97/nvim
-* ⬆️ Pushed 1 commit to THISURA97/nvim
-* ⬆️ Pushed 1 commit to THISURA97/nvim
+* ⬆️ Pushed 2 commits to THISURA97/CSAAT
+* 🎉 Merged PR #5 in THISURA97/CSAAT
+* ⬆️ Pushed 2 commits to THISURA97/HotelManagementSystem-test
+* 🎉 Merged PR #15 in THISURA97/HotelManagementSystem-test
+* ⬆️ Pushed 2 commits to THISURA97/HotelManagementSystem-test
 
 ## Github Metrics
 
