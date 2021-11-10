@@ -42,8 +42,8 @@
 
 * ⬆️ Pushed 1 commit to THISURA97/BION
 * ⬆️ Pushed 1 commit to THISURA97/BION
-* ⬆️ Pushed 1 commit to THISURA97/docker-demo
-* ⬆️ Pushed 1 commit to THISURA97/docker-demo
+* ⬆️ Pushed 1 commit to THISURA97/BION
+* ⬆️ Pushed 1 commit to THISURA97/BION
 * ⬆️ Pushed 1 commit to THISURA97/docker-demo
 
 ## Github Metrics
