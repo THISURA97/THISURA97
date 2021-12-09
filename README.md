@@ -6,8 +6,8 @@
 
 ## 🧬 About Me
 
-- 💻 I am a full stack web developer and a undergraduate of Sri Lanka Institute of Information Technology(SLIIT) .
-- 🔭 I am currently completing my DevOps Internship at SLIIT.
+- 💻 I am a junior DevOps engineer and a undergraduate of Sri Lanka Institute of Information Technology(SLIIT) .
+- 🔭 I did completing my DevOps Internship at SLIIT.
 - 💪 All of my projects are available at [https://github.com/thisura97](https://github.com/thisura97)
 - 📫 How to reach me: **<tdinith481@gmail.com>**(personal)
 - :octocat: If you are interest in my work here is my [resume](https://drive.google.com/file/d/1zFTO09e10yvrxgJ_V0P3DRehyi1SeGy3/view?usp=sharing)
