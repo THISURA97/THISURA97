@@ -1,6 +1,5 @@
 [![Metrics](https://github.com/THISURA97/THISURA97/actions/workflows/metrics.yml/badge.svg)](https://github.com/THISURA97/THISURA97/actions/workflows/metrics.yml)
 [![README Stats](https://github.com/THISURA97/THISURA97/actions/workflows/main.yml/badge.svg)](https://github.com/THISURA97/THISURA97/actions/workflows/main.yml)
-![](https://komarev.com/ghpvc/?username=THISURA97)
 <h1 align="center">Hi 👋, I'm Thisura Dinith</h1>
 <h3 align="center">A developer from Kalutara, Sri Lanka.</h3>
 
@@ -41,10 +40,10 @@
 
 ## 💼 Activity
 
+* ⬆️ Pushed 1 commit to THISURA97/THISURA97
 * ⬆️ Pushed 1 commit to THISURA97/React-KT
 * ⬆️ Pushed 1 commit to THISURA97/THISURA97
 * ⬆️ Pushed 1 commit to THISURA97/BION2
-* ⬆️ Pushed 1 commit to THISURA97/BION
 * ⬆️ Pushed 1 commit to THISURA97/BION
 
 ## Github Metrics
