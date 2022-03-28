@@ -43,8 +43,6 @@
 * ⬆️ Pushed 1 commit to THISURA97/Terraform-demo
 * ⬆️ Pushed 1 commit to THISURA97/Terraform-demo
 * ⬆️ Pushed 1 commit to THISURA97/Terraform-demo
-* ⬆️ Pushed 1 commit to THISURA97/THISURA97
-* ⬆️ Pushed 1 commit to THISURA97/THISURA97
 
 ## Github Metrics
 
