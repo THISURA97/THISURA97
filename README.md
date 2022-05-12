@@ -40,7 +40,11 @@
 
 ## 💼 Activity
 
-* 🍴 Forked THISURA97/90DaysOfDevOps from MichaelCade/90DaysOfDevOps
+* 🎉 Merged PR #23 in THISURA97/HotelManagementSystem
+* ⬆️ Pushed 2 commits to THISURA97/HotelManagementSystem
+* ⬆️ Pushed 2 commits to THISURA97/HotelManagementSystem
+* 🎉 Merged PR #25 in THISURA97/HotelManagementSystem
+* ⬆️ Pushed 2 commits to THISURA97/Django_CRUD
 
 ## Github Metrics
 
