@@ -40,11 +40,11 @@
 
 ## 💼 Activity
 
+* ⬆️ Pushed 1 commit to THISURA97/theo-bot-discord
+* ⬆️ Pushed 1 commit to THISURA97/techno-boto-discord
+* ⬆️ Pushed 1 commit to THISURA97/techno-boto-discord
 * ⬆️ Pushed 1 commit to THISURA97/techno-boto-discord
 * 🍴 Forked THISURA97/techno-boto-discord from techno-tim/techno-boto-discord
-* 🎉 Merged PR #23 in THISURA97/HotelManagementSystem
-* ⬆️ Pushed 2 commits to THISURA97/HotelManagementSystem
-* ⬆️ Pushed 2 commits to THISURA97/HotelManagementSystem
 
 ## Github Metrics
 
