@@ -40,11 +40,7 @@
 
 ## 💼 Activity
 
-* ⬆️ Pushed 1 commit to THISURA97/theo-bot-discord
-* ⬆️ Pushed 1 commit to THISURA97/techno-boto-discord
-* ⬆️ Pushed 1 commit to THISURA97/techno-boto-discord
-* ⬆️ Pushed 1 commit to THISURA97/techno-boto-discord
-* 🍴 Forked THISURA97/techno-boto-discord from techno-tim/techno-boto-discord
+
 
 ## Github Metrics
 
