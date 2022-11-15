@@ -1,13 +1,13 @@
 [![Metrics](https://github.com/THISURA97/THISURA97/actions/workflows/metrics.yml/badge.svg)](https://github.com/THISURA97/THISURA97/actions/workflows/metrics.yml)
 [![README Stats](https://github.com/THISURA97/THISURA97/actions/workflows/main.yml/badge.svg)](https://github.com/THISURA97/THISURA97/actions/workflows/main.yml)
 <h1 align="center">Hi 👋, I'm Thisura Dinith</h1>
-<h3 align="center">A Software Engineer from Kalutara, Sri Lanka.</h3>
+<h3 align="center">A developer from Kalutara, Sri Lanka.</h3>
 
 
 ## 🧬 About Me
 
-- 💻 I am a Software Engineer and a undergraduate of Sri Lanka Institute of Information Technology(SLIIT) .
-- 🔭 I did complete my SRE DevOps Internship at SLIIT.
+- 💻 I am a junior DevOps engineer and a undergraduate of Sri Lanka Institute of Information Technology(SLIIT) .
+- 🔭 I did complete my DevOps Internship at SLIIT.
 - 💪 All of my projects are available at [https://github.com/thisura97](https://github.com/thisura97)
 - 📫 How to reach me: **<tdinith481@gmail.com>**(personal)
 - :octocat: If you are interest in my work here is my [resume](https://drive.google.com/file/d/1SNjm9O7UhxwgRJIt7dUOdnrhK1oS2X0Q/view?usp=sharing)
@@ -40,7 +40,7 @@
 
 ## 💼 Activity
 
-
+* ⬆️ Pushed 1 commit to THISURA97/THISURA97
 
 ## Github Metrics
 
