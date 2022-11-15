@@ -68,5 +68,3 @@
 <!--The End, special thanks to all the wonderful people who made
 the GitHub profile readme stats/workflows to make my profile look
 fabulously dynamic ❤️-->
- 
- ![](https://komarev.com/ghpvc/?username=thisura97&style=for-the-badge)
