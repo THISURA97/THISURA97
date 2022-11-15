@@ -1,18 +1,12 @@
 [![Metrics](https://github.com/THISURA97/THISURA97/actions/workflows/metrics.yml/badge.svg)](https://github.com/THISURA97/THISURA97/actions/workflows/metrics.yml)
 [![README Stats](https://github.com/THISURA97/THISURA97/actions/workflows/main.yml/badge.svg)](https://github.com/THISURA97/THISURA97/actions/workflows/main.yml)
+<h1 align="center">Hi 👋, I'm Thisura Dinith</h1>
+<h3 align="center">A developer from Kalutara, Sri Lanka.</h3>
 
-<div align=center>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%F0%9F%91%8B%2C+Thisura+here+.+.+.)](https://git.io/typing-svg)
-
-` Software Engineer from Kalutara, Sri Lanka.` 
-
-<div align=left>
 
 ## 🧬 About Me
 
-
-- 💻 I am a Software Engineer @HCLTech and a undergraduate of Sri Lanka Institute of Information Technology(SLIIT) .
+- 💻 I am a junior DevOps engineer and a undergraduate of Sri Lanka Institute of Information Technology(SLIIT) .
 - 🔭 I did complete my DevOps Internship at SLIIT.
 - 💪 All of my projects are available at [https://github.com/thisura97](https://github.com/thisura97)
 - 📫 How to reach me: **<tdinith481@gmail.com>**(personal)
@@ -37,20 +31,16 @@
 
 
 <br />
-<p align="center">
+<p>
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=thisura97&s&theme=radical&show_icons=true&hide_title=false&include_all_commits=true&count_private=true&hide=[%22contribs%22]" alt="Github Stats" />
-</p>  
-  <br/>
-<p align="center"> 
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisura97&theme=radical&show_icons=true&langs_count=9b&hide=css&layout=compact" alt="Top Languages" />
 </p>
 
 <br />
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=thisura97&theme=tokyo-night&hide_title=false&hide_border=false)](https://github.com/thisura97/github-readme-activity-graph)
-
 ## 💼 Activity
 
+* ⬆️ Pushed 1 commit to THISURA97/THISURA97
 * ⬆️ Pushed 1 commit to THISURA97/THISURA97
 
 ## Github Metrics
