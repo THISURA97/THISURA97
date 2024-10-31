@@ -16,7 +16,7 @@
 - 🔭 I did complete my DevOps Internship at SLIIT.
 - 💪 All of my projects are available at [https://github.com/thisura97](https://github.com/thisura97)
 - 📫 How to reach me: **<tdinith481@gmail.com>**(personal)
-- :octocat: If you are interest in my work here is my [resume](https://drive.google.com/file/d/1SDL7LdrrziK575Dc75yZtJVcZ7hl76r8/view?usp=drive_link)
+- :octocat: If you are interest in my work here is my [resume](https://drive.google.com/file/d/1SNjm9O7UhxwgRJIt7dUOdnrhK1oS2X0Q/view?usp=sharing)
 
 
  ## 💪 Stats
