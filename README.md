@@ -47,6 +47,8 @@
 
 <br />
 
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=thisura97&theme=tokyo-night&hide_title=false&hide_border=false)](https://github.com/thisura97/github-readme-activity-graph)
+
 ## 💼 Activity
 
 * ⬆️ Pushed 1 commit to THISURA97/THISURA97
