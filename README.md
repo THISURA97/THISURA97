@@ -11,18 +11,12 @@
 
 ## 🧬 About Me
 
-### **Experience**  
-- **Former Software Engineer** @HCLTech Sri Lanka  
-- **Former DevOps/SRE Engineer (Internship)** @SLIIT University  
 
-### **Education**  
-- **MBA in Project Management** – Cardiff Metropolitan University, UK  
-- **BSc(Hons) in IT** – Sri Lanka Institute of Information Technology (SLIIT), SL  
-
-### **Projects & Contact**  
-- **GitHub Portfolio**: [github.com/thisura97](https://github.com/thisura97)  
-- **Email**: **<tdinith481@gmail.com>**  
-- **Resume**: [Download Here](https://drive.google.com/file/d/1QPKr3czlNJzJXmls1_gt1HqNIaL5PoW4/view?usp=drive_link)  
+- 💻 I am a Software Engineer @HCLTech and a undergraduate of Sri Lanka Institute of Information Technology(SLIIT) .
+- 🔭 I did complete my DevOps Internship at SLIIT.
+- 💪 All of my projects are available at [https://github.com/thisura97](https://github.com/thisura97)
+- 📫 How to reach me: **<tdinith481@gmail.com>**(personal)
+- :octocat: If you are interest in my work here is my [resume](https://drive.google.com/file/d/1SNjm9O7UhxwgRJIt7dUOdnrhK1oS2X0Q/view?usp=sharing)
 
 
  ## 💪 Stats
@@ -41,15 +35,35 @@
  </p>
 
 
+
 <br />
 <p align="center">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=thisura97&s&theme=radical&show_icons=true&hide_title=false&include_all_commits=true&count_private=true&hide=[%22contribs%22]" alt="Github Stats" />
 </p>  
   <br/>
+<p align="center"> 
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisura97&theme=radical&show_icons=true&langs_count=9b&hide=css&layout=compact" alt="Top Languages" />
+</p>
+
+<br />
+
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=thisura97&theme=tokyo-night&hide_title=false&hide_border=false)](https://github.com/thisura97/github-readme-activity-graph)
+
+## 💼 Activity
+
+* ⬆️ Pushed 1 commit to THISURA97/THISURA97
+
+## Github Metrics
+
+<details><summary>Click to Expand</summary>
+  <p align="center">
+    <a href="#" target="blank"><img align="center" src="github-metrics.svg" /></a>
+  </p>
+</details>
 
 
 <!-- Feel free to reach out and introduce yourself :D-->
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://www.facebook.com/ThisuraX">reach out</a> and introduce yourself (don’t just say hi, tell me about yourself)</b> 😊 💜</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://www.facebook.com/thisura97">reach out</a> and introduce yourself (don’t just say hi, tell me about yourself)</b> 😊 💜</em>
 
 <!--The End, special thanks to all the wonderful people who made
 the GitHub profile readme stats/workflows to make my profile look
